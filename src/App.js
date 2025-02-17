@@ -10,6 +10,7 @@ import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp';
 import Work from './components/Work/Work';
+import Chatbot from './components/ChatBot/Chatbot';
 
 
 
@@ -30,7 +31,7 @@ const App = () => {
 
 <Footer/>
 <ScrollUp/>
-
+<Chatbot/>
     </>
   )
 }
