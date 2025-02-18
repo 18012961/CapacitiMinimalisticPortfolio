@@ -29,13 +29,13 @@ const Chatbot = () => {
     return (
       <>
         <div id="chatbot-toggle" onClick={toggleChatbot}>
-          ✨ Chat
+          Chat
         </div>
   
         {isOpen && (
           <div id="chatbot">
             <div id="chatbot-header">
-              I'm CK, Chat with me!
+              I'm Refilwe, let's talk bestie ✨
               <button onClick={toggleChatbot}>X</button>
             </div>
   

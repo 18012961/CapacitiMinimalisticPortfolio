@@ -4,7 +4,7 @@
     right: 20px;
     width: 300px;
     height: 400px;
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
@@ -13,7 +13,7 @@
   
   #chatbot-header {
     background-color: #c4c4c9;
-    color: #a91e1e;
+    color: #000000;
     padding: 10px;
     text-align: center;
     font-size: 16px;
@@ -32,8 +32,8 @@
   #chatbot-footer {
     display: flex;
     padding: 10px;
-    background-color: #068db6;
-    border-radius: 0 0 10px 10px;
+    background-color: #c4c4c9;
+    border-radius: 0 0 0 10px;
     box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
   }
   
@@ -46,7 +46,7 @@
   }
   
   #send-button {
-    background-color: #13d4c4;
+    background-color: #3c3d3d;
     color: white;
     border: none;
     border-radius: 5px;
@@ -68,27 +68,27 @@
   }
   
   .message.user-message {
-    background-color: #09d6f1;
-    border: 2px solid #a3dbcd;
+    background-color: #f8fafa;
+    border: 2px solid #747c7a;
     align-self: flex-end;
   }
   
   .message.bot-message {
-    background-color: #0ad4f8;
-    border: 2px solid #ccc;
+    background-color: #ebf2f3;
+    border: 2px solid #ca9595;
     align-self: flex-start;
   }
   
   #chatbot-toggle {
 position: fixed;
-bottom: 20px;
-right: 20px;
-background-color: #14a4dd;
+bottom: 43px;
+right: 100px;
+background-color: #535758;
 color: white;
-border-radius: 0; /* Change this to 0 for a square shape */
+border-radius: 9px; /* Change this to 0 for a square shape */
 padding: 15px;
 cursor: pointer;
-font-size: 24px;
+font-size: 20px;
 
   }
   
