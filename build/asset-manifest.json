@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CapacitiMinimalisticPortfolio/static/css/main.d4b03135.css",
+    "main.js": "/CapacitiMinimalisticPortfolio/static/js/main.c121a691.js",
+    "static/media/GabiWebsite.png": "/CapacitiMinimalisticPortfolio/static/media/GabiWebsite.953618bb08282a02c871.png",
+    "static/media/simplewebsite.png": "/CapacitiMinimalisticPortfolio/static/media/simplewebsite.160052928e2799454656.png",
+    "static/media/cogta.png": "/CapacitiMinimalisticPortfolio/static/media/cogta.9936276f249bf00087d5.png",
+    "static/media/REF.jpg": "/CapacitiMinimalisticPortfolio/static/media/REF.75f45eabad61a0c99fd9.jpg",
+    "static/media/cogta2.png": "/CapacitiMinimalisticPortfolio/static/media/cogta2.e8a071f37517eb2b12ce.png",
+    "static/media/Fortunate-FullStack-Dev.pdf": "/CapacitiMinimalisticPortfolio/static/media/Fortunate-FullStack-Dev.d71fdd5287a601ca9a81.pdf",
+    "static/media/Simplyy.jpg": "/CapacitiMinimalisticPortfolio/static/media/Simplyy.f630c256d7b4290fc9d3.jpg",
+    "static/media/GabiWebsitee.png": "/CapacitiMinimalisticPortfolio/static/media/GabiWebsitee.4bbd35f977e79c8e4b05.png",
+    "static/media/dior.jpg": "/CapacitiMinimalisticPortfolio/static/media/dior.b5124a1b9b608babe4ca.jpg",
+    "static/media/download.jpg": "/CapacitiMinimalisticPortfolio/static/media/download.42cadadb6f4aa4e3660e.jpg",
+    "static/media/blueappp.png": "/CapacitiMinimalisticPortfolio/static/media/blueappp.20eaff783c6238f5d4d6.png",
+    "static/media/lips.jpg": "/CapacitiMinimalisticPortfolio/static/media/lips.062e47743b6094bc2589.jpg",
+    "static/media/cleangirl.jpg": "/CapacitiMinimalisticPortfolio/static/media/cleangirl.7c570413cba8400646f6.jpg",
+    "static/media/HIRE.jpg": "/CapacitiMinimalisticPortfolio/static/media/HIRE.5f3ae3179f1d05d11aff.jpg",
+    "index.html": "/CapacitiMinimalisticPortfolio/index.html",
+    "main.d4b03135.css.map": "/CapacitiMinimalisticPortfolio/static/css/main.d4b03135.css.map",
+    "main.c121a691.js.map": "/CapacitiMinimalisticPortfolio/static/js/main.c121a691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4b03135.css",
+    "static/js/main.c121a691.js"
+  ]
+}
